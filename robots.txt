@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Review mode. Remove disallow only when approved and canonical URLs point to production.

@@ -1,0 +1,14 @@
+[
+  {
+    "old": "/product/kryshki-dlya-tubusov/plastikovye/Крышка Пробка D 80 мм/",
+    "new": "/product/kryshki-dlya-tubusov/plastikovye/kryshka-probka-d-80-mm/",
+    "name": "Прозрачная крышка пробка из ПЭТ D 80 мм",
+    "reason": "Одинаковая крышка с одинаковым H1; кириллический URL из CSV и транслитерация из старого каталога"
+  },
+  {
+    "old": "/product/kryshki-dlya-tubusov/plastikovye/Крышка Пробка D 55 мм/",
+    "new": "/product/kryshki-dlya-tubusov/plastikovye/kryshka-probka-d-55-mm/",
+    "name": "Прозрачная крышка пробка из ПЭТ D 55 мм",
+    "reason": "Одинаковая крышка с одинаковым H1; кириллический URL из CSV и транслитерация из старого каталога"
+  }
+]

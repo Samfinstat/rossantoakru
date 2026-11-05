@@ -1,11 +1,13 @@
 {
   "total_queries": 3182,
   "query_status": {
-    "provisional": 2934,
-    "review": 128,
-    "informational": 49,
-    "exclude": 71
+    "provisional": 2808,
+    "review": 272,
+    "informational": 63,
+    "exclude": 39
   },
-  "categories": 61,
-  "products": 27
+  "categories": 62,
+  "products": 274,
+  "method": "lexical_preliminary",
+  "region": "unspecified_in_source"
 }

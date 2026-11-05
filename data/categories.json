@@ -2,306 +2,435 @@
   {
     "name": "Ложементы",
     "path": "/product/lozhementy/",
-    "parent": "/product/"
+    "parent": "/product/",
+    "summary": "Ложемент защищает изделие от перемещений внутри упаковки. Конструкцию и материал подбирают по форме продукции, нагрузкам и условиям перевозки.",
+    "tagline": "Изготовление ложементов на заказ: материал, геометрия, амортизация и фиксация изделий."
   },
   {
     "name": "Ложементы из поролона",
     "path": "/product/lozhementy/lozhementy-iz-porolona/",
-    "parent": "/product/lozhementy/"
+    "parent": "/product/lozhementy/",
+    "summary": "Поролоновые ложементы применяют, когда нужна мягкая посадка предмета и защита от контакта с жёсткими стенками упаковки.",
+    "tagline": "Мягкая фиксация приборов, наборов и хрупких изделий."
   },
   {
     "name": "Ложементы из вспененного полиэтилена",
     "path": "/product/lozhementy/lozhementy-iz-penopolietilenov/",
-    "parent": "/product/lozhementy/"
+    "parent": "/product/lozhementy/",
+    "summary": "Вспененный полиэтилен используют для защитных вставок, транспортных комплектов и разделителей. Плотность и толщину согласуют по нагрузке.",
+    "tagline": "Лёгкие упругие вкладыши из ППЭ под размеры изделия."
   },
   {
     "name": "Ложементы из изолона",
     "path": "/product/lozhementy/lozhementy-iz-izolona/",
-    "parent": "/product/lozhementy/"
+    "parent": "/product/lozhementy/",
+    "summary": "Изолон используют в качестве амортизирующего материала для вкладышей и конструкций под индивидуальную геометрию.",
+    "tagline": "Ложементы из изолона для защиты и фиксации изделий."
   },
   {
     "name": "Ложементы из пластика",
     "path": "/product/lozhementy/lozhementy-iz-plastika1/",
-    "parent": "/product/lozhementy/"
+    "parent": "/product/lozhementy/",
+    "summary": "Такие ложементы позволяют организовать ячейки и точки опоры для комплектов и изделий сложной формы.",
+    "tagline": "Формованные пластиковые ложементы под геометрию продукции."
   },
   {
     "name": "Ложементы из EVA",
     "path": "/product/lozhementy/lozhementy-iz-materiala-eva/",
-    "parent": "/product/lozhementy/"
+    "parent": "/product/lozhementy/",
+    "summary": "ЭВА выбирают для аккуратной фиксации и презентации товара, когда важны геометрия вырезов и внешний вид.",
+    "tagline": "Плотные вкладыши из материала EVA для технической и подарочной упаковки."
   },
   {
     "name": "Ложементы из картона",
     "path": "/product/lozhementy/lozhementy-iz-kartona/",
-    "parent": "/product/lozhementy/"
+    "parent": "/product/lozhementy/",
+    "summary": "Картонные вставки помогают разделить элементы и зафиксировать изделия внутри коробок при подходящих условиях нагрузки.",
+    "tagline": "Картонные ложементы и разделители под конкретную продукцию."
   },
   {
     "name": "Ложементы из пенопласта",
     "path": "/product/lozhementy/lozhementy-iz-penoplasta/",
-    "parent": "/product/lozhementy/"
+    "parent": "/product/lozhementy/",
+    "summary": "Пенопластовые ложементы применяют в транспортной таре для снижения нагрузок на оборудование и крупные изделия.",
+    "tagline": "Формованные и резные пенопластовые вставки для защитной упаковки."
   },
   {
     "name": "Ложементы для кейсов",
     "path": "/product/lozhementy/lozhementy-dlya-keysov/",
-    "parent": "/product/lozhementy/"
+    "parent": "/product/lozhementy/",
+    "summary": "Вкладыш для кейса проектируют с учётом внутреннего размера, набора компонентов и частоты извлечения деталей.",
+    "tagline": "Внутренняя организация кейса под приборы и инструменты."
   },
   {
     "name": "Коробки",
     "path": "/product/korobki/",
-    "parent": "/product/"
+    "parent": "/product/",
+    "summary": "Коробку проектируют по размерам, весу товара и логистике. Для брендирования предусматривают печать и декоративную отделку по согласованию.",
+    "tagline": "Изготовление картонных коробок по размерам, конструкции и дизайну заказчика."
   },
   {
     "name": "Гофрокороба",
     "path": "/product/korobki/gofrokoroba/",
-    "parent": "/product/korobki/"
+    "parent": "/product/korobki/",
+    "summary": "Гофрокартон используют для групповой и транспортной упаковки. Марку картона, конструкцию и размеры определяют по нагрузкам.",
+    "tagline": "Транспортные гофрокороба для оборудования, товаров и комплектов."
   },
   {
     "name": "Картонные коробки",
     "path": "/product/korobki/kartonnye-korobki/",
-    "parent": "/product/korobki/"
+    "parent": "/product/korobki/",
+    "summary": "Конструкция зависит от габаритов, веса изделия, способа сборки и требований к оформлению.",
+    "tagline": "Картонные коробки под продукцию и фирменное оформление."
   },
   {
     "name": "Коробки из микрогофрокартона",
     "path": "/product/korobki/korobki-iz-mikrogofrokartona/",
-    "parent": "/product/korobki/"
+    "parent": "/product/korobki/",
+    "summary": "Микрогофрокартон подходит для компактных коробок, где требуется баланс внешнего вида, веса и жёсткости.",
+    "tagline": "Упаковка из микрогофрокартона для товаров, наборов и доставки."
   },
   {
     "name": "Коробки из переплётного картона",
     "path": "/product/korobki/korobki-iz-perepletnogo-kartona/",
-    "parent": "/product/korobki/"
+    "parent": "/product/korobki/",
+    "summary": "Переплётный картон применяют для презентационной упаковки, которую можно дополнить ложементом и брендированием.",
+    "tagline": "Жёсткие коробки из переплётного картона для подарков и наборов."
   },
   {
     "name": "Коробки с ложементом",
     "path": "/product/korobki/korobki-s-lozhementom/",
-    "parent": "/product/korobki/"
+    "parent": "/product/korobki/",
+    "summary": "Подбираем конструкцию с учётом формы изделия, точек фиксации и требований к внешнему виду.",
+    "tagline": "Комплектная упаковка: внешняя коробка и внутренний ложемент."
   },
   {
     "name": "Подарочные коробки с ложементом",
     "path": "/product/korobki/podarochnye-korobki-s-lozhementom/",
-    "parent": "/product/korobki/"
+    "parent": "/product/korobki/",
+    "summary": "Подарочная упаковка сочетает презентацию набора и надёжную посадку элементов.",
+    "tagline": "Подарочные коробки с индивидуальными ячейками для предметов."
   },
   {
     "name": "Пластиковая упаковка",
     "path": "/product/plastikovaya-upakovka/",
-    "parent": "/product/"
+    "parent": "/product/",
+    "summary": "Пластиковую упаковку проектируют с учётом геометрии изделия, толщины листа, требуемой жёсткости и формата использования.",
+    "tagline": "Формованная пластиковая упаковка под нестандартные изделия."
   },
   {
     "name": "Блистерная упаковка",
     "path": "/product/plastikovaya-upakovka/blisternaya-upakovka/",
-    "parent": "/product/plastikovaya-upakovka/"
+    "parent": "/product/plastikovaya-upakovka/",
+    "summary": "Блистерная упаковка помогает показать продукцию и удерживать её в заданной форме.",
+    "tagline": "Прозрачные формованные блистеры для фиксации и презентации товара."
   },
   {
     "name": "Вакуумная формовка",
     "path": "/product/plastikovaya-upakovka/vakuumnaya-formovka/",
-    "parent": "/product/plastikovaya-upakovka/"
+    "parent": "/product/plastikovaya-upakovka/",
+    "summary": "Вакуумная формовка позволяет получить рельеф упаковки по изготовленной оснастке; параметры определяются задачей.",
+    "tagline": "Изготовление пластиковых изделий методом вакуумной формовки."
   },
   {
     "name": "Коррексы",
     "path": "/product/plastikovaya-upakovka/korreksy/",
-    "parent": "/product/plastikovaya-upakovka/"
+    "parent": "/product/plastikovaya-upakovka/",
+    "summary": "Коррексы применяют для организации размещения элементов и отделения продукции внутри коробки.",
+    "tagline": "Пластиковые коррексы и лотки с ячейками."
   },
   {
     "name": "Пластиковые ложементы",
     "path": "/product/plastikovaya-upakovka/lozhementy-iz-plastika/",
-    "parent": "/product/plastikovaya-upakovka/"
+    "parent": "/product/plastikovaya-upakovka/",
+    "summary": "Пресс-форма и форма листового пластика подбираются по контуру изделия и техническому заданию.",
+    "tagline": "Ложементы методом формовки пластика."
   },
   {
     "name": "Пластиковые тубусы",
     "path": "/product/plastikovaya-upakovka/tubusy/",
-    "parent": "/product/plastikovaya-upakovka/"
+    "parent": "/product/plastikovaya-upakovka/",
+    "summary": "Тубусы подбирают по внутреннему диаметру, высоте, прозрачности и совместимости с крышкой.",
+    "tagline": "Прозрачные тубусы для упаковки и демонстрации изделий."
   },
   {
     "name": "Крышки для тубусов",
     "path": "/product/kryshki-dlya-tubusov/",
-    "parent": "/product/"
+    "parent": "/product/",
+    "summary": "Для подбора крышки важны посадочный диаметр, тип кромки, материал тубуса и требуемая фиксация.",
+    "tagline": "Комплектующие для пластиковых и картонных тубусов."
   },
   {
     "name": "Жестяные крышки для тубусов",
     "path": "/product/kryshki-dlya-tubusov/zhestyanye/",
-    "parent": "/product/kryshki-dlya-tubusov/"
+    "parent": "/product/kryshki-dlya-tubusov/",
+    "summary": "Жестяные крышки подбирают по геометрии посадки и конструкции упаковочного тубуса.",
+    "tagline": "Металлические крышки для оформления и закрытия тубусов."
   },
   {
     "name": "Пластиковые крышки для тубусов",
     "path": "/product/kryshki-dlya-tubusov/plastikovye/",
-    "parent": "/product/kryshki-dlya-tubusov/"
+    "parent": "/product/kryshki-dlya-tubusov/",
+    "summary": "При выборе учитывают фактический размер корпуса и тип крепления, а не только номинальный диаметр.",
+    "tagline": "Пластиковые крышки для тубусов различных типоразмеров."
   },
   {
     "name": "Поролоновые руки",
     "path": "/product/porolonovye-ruki/",
-    "parent": "/product/"
+    "parent": "/product/",
+    "summary": "Поролоновые руки применяют для мероприятий, промоакций и поддержки команд; форму и графику согласуют по макету.",
+    "tagline": "Рекламные и фанатские руки из поролона с оформлением под задачу."
   },
   {
     "name": "Упаковка по назначению",
     "path": "/product/purpose/",
-    "parent": "/product/"
+    "parent": "/product/",
+    "summary": "Начинаем с условий использования: сохранность при доставке, хранении, выкладке или презентации.",
+    "tagline": "Подбор защитной, транспортной и презентационной упаковки по назначению."
   },
   {
     "name": "Вкладыши для упаковки",
     "path": "/product/purpose/vkladyshi-dlya-upakovki/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Материал и конфигурацию вкладыша согласуют по геометрии товара и нагрузкам.",
+    "tagline": "Вставки в коробки для фиксации изделий и комплектов."
   },
   {
     "name": "Военная упаковка",
     "path": "/product/purpose/voennaya-upakovka/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Технические требования к упаковке и условия эксплуатации определяет заказчик в техническом задании.",
+    "tagline": "Защитная упаковка для промышленного и специального оборудования."
   },
   {
     "name": "Защитная упаковка",
     "path": "/product/purpose/zashchitnaya-upakovka/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Для защиты подбирают амортизирующие вставки, углы, профили и внешнюю тару.",
+    "tagline": "Защитные элементы упаковки под вес и хрупкость изделия."
   },
   {
     "name": "Индивидуальная упаковка",
     "path": "/product/purpose/individualnaya-upakovka/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Разрабатываем конструкцию по габаритам и способу хранения/отгрузки продукции.",
+    "tagline": "Индивидуальная упаковка для конкретного изделия или набора."
   },
   {
     "name": "Комбинированная упаковка",
     "path": "/product/purpose/kombinirovannaya-upakovka/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Упаковка может сочетать несколько материалов для фиксации и презентации.",
+    "tagline": "Комбинация коробки и внутренних защитных материалов."
   },
   {
     "name": "Накладки для серверов",
     "path": "/product/purpose/nakladki-dlya-serverov/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Конструкция учитывает уязвимые зоны корпуса и условия транспортировки.",
+    "tagline": "Защитные накладки при упаковке серверного оборудования."
   },
   {
     "name": "Подарочная упаковка",
     "path": "/product/purpose/podarochnaya-upakovka/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Для подарочных комплектов важны презентация, внутренняя компоновка и повторяемость тиража.",
+    "tagline": "Подарочная упаковка под размер набора и стиль бренда."
   },
   {
     "name": "Профили из пенопласта",
     "path": "/product/purpose/profili-iz-penoplasta/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Профиль подбирают по длине, поперечному сечению и зонам защиты.",
+    "tagline": "Профили из пенопласта для защитной и транспортной упаковки."
   },
   {
     "name": "Транспортная упаковка",
     "path": "/product/purpose/transportnaya-upakovka/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Внешняя коробка и внутренние опоры проектируются с учётом веса груза и вида транспорта.",
+    "tagline": "Комплексная транспортная упаковка по условиям логистики."
   },
   {
     "name": "Уголки из пенопласта",
     "path": "/product/purpose/ugolki-iz-penoplasta/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Углы помогают разделить груз и стенки короба и уменьшить точечные нагрузки.",
+    "tagline": "Защитные пенопластовые уголки для перевозки продукции."
   },
   {
     "name": "Ударопрочная упаковка",
     "path": "/product/purpose/udaroprochnaya-upakovka/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Проект учитывает вибрации, ударные воздействия и геометрию изделия; точные показатели подтверждают испытаниями.",
+    "tagline": "Упаковка с амортизацией для снижения риска повреждений."
   },
   {
     "name": "Упаковка для авиаперевозок",
     "path": "/product/purpose/upakovka-dlya-aviaperevozok-upakovka-dlya-aviatsionnykh-izdeliy-dlya-aviatsii-na-zakaz/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Подбор материалов и конструкций выполняется по требованиям перевозчика и заказчика.",
+    "tagline": "Изготовление упаковки для авиационных изделий и перевозок."
   },
   {
     "name": "Упаковка для ампул",
     "path": "/product/purpose/upakovka-dlya-ampul/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Важны раздельное размещение, заданный шаг ячеек и сохранность хрупких элементов.",
+    "tagline": "Упаковочные вкладыши для ампул и небольших стеклянных изделий."
   },
   {
     "name": "Упаковка для бокалов",
     "path": "/product/purpose/upakovka-dlya-bokalov-1535/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Фиксируем форму и уменьшаем контакт стекла со стенками тары.",
+    "tagline": "Защитные элементы упаковки для бокалов."
   },
   {
     "name": "Заглушки, вставки, уголки",
     "path": "/product/purpose/zaglushki-vstavki-ugolki469/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Детали подбираются по форме защищаемого участка и условиям перевозки.",
+    "tagline": "Защитные заглушки и вставки для оборудования и товаров."
   },
   {
     "name": "Упаковка для духов",
     "path": "/product/purpose/upakovka-dlya-dukhov/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Сочетаем презентационный внешний вид и фиксацию стеклянного флакона.",
+    "tagline": "Упаковка для флаконов духов и парфюмерных наборов."
   },
   {
     "name": "Упаковка для зеркал",
     "path": "/product/purpose/upakovka-dlya-zerkal/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Уязвимые углы и поверхность стекла требуют разделения и амортизации.",
+    "tagline": "Защитная упаковка зеркал под размеры и логистику."
   },
   {
     "name": "Упаковка для кальянов",
     "path": "/product/purpose/upakovka-dlya-kalyanov/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Разделяем составные части и защищаем хрупкие элементы.",
+    "tagline": "Коробки и вкладыши для комплектов со сложной геометрией."
   },
   {
     "name": "Упаковка для керамики",
     "path": "/product/purpose/upakovka-dlya-keramiki/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Упаковочная конструкция учитывает хрупкость изделия и особенности поверхности.",
+    "tagline": "Упаковка керамических изделий с внутренней фиксацией."
   },
   {
     "name": "Упаковка для косметики",
     "path": "/product/purpose/upakovka-dlya-kosmetiki-7763/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Выбор зависит от формы флаконов, комплектации и способа демонстрации товаров.",
+    "tagline": "Коробки, ложементы и формованные ячейки для косметических наборов."
   },
   {
     "name": "Упаковка для крупногабаритных грузов",
     "path": "/product/purpose/upakovka-dlya-krupnogabaritnykh-gruzov-i-tovarov/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Опорные точки, вес и условия транспортировки определяют конструкцию.",
+    "tagline": "Индивидуальные защитные элементы для габаритного оборудования."
   },
   {
     "name": "Новогодняя упаковка",
     "path": "/product/purpose/novogodnyaya-upakovka394/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Формат коробки, брендирование и внутреннее размещение компонентов зависят от состава подарка.",
+    "tagline": "Подарочная упаковка для новогодних наборов."
   },
   {
     "name": "Упаковка для медицинских изделий",
     "path": "/product/purpose/upakovka-dlya-meditsinskikh-izdeliy9560/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Назначение, материалы и требования к чистоте согласуются по ТЗ; стерильность не заявлена без подтверждения.",
+    "tagline": "Защитная упаковка для медицинских приборов и изделий."
   },
   {
     "name": "Упаковка для сантехники",
     "path": "/product/purpose/upakovka-dlya-santekhniki-9530/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Учитываются масса, хрупкие участки и конфигурация изделий.",
+    "tagline": "Защитные вставки и коробки для сантехнических изделий."
   },
   {
     "name": "Упаковка для светильников",
     "path": "/product/purpose/upakovka-dlya-svetilnikov/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Изделие фиксируют так, чтобы снизить риск повреждений корпуса и рассеивателя.",
+    "tagline": "Упаковка светильников и светотехнических комплектов."
   },
   {
     "name": "Упаковка для стоматологии",
     "path": "/product/purpose/upakovka-dlya-stomatologii9142/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Точная геометрия ячеек помогает организовать защиту отдельных компонентов.",
+    "tagline": "Упаковочные вкладыши для стоматологического оборудования и комплектов."
   },
   {
     "name": "Упаковка для украшений",
     "path": "/product/purpose/upakovka-dlya-ukrasheniy/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Фиксация украшений сочетается с требованиями к внешнему виду упаковки.",
+    "tagline": "Презентационные коробки и ложементы для ювелирных изделий."
   },
   {
     "name": "Упаковка для флаконов",
     "path": "/product/purpose/upakovka-dlya-flakonov/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Разделители и ложементы подбирают по диаметру, высоте и числу флаконов.",
+    "tagline": "Индивидуальная упаковка для стеклянных и пластиковых флаконов."
   },
   {
     "name": "Упаковка для хрупкого",
     "path": "/product/purpose/upakovka-dlya-khrupkogo7733/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Амортизацию и точки опоры выбирают по рискам перевозки.",
+    "tagline": "Защитные конструкции для хрупкой продукции."
   },
   {
     "name": "Упаковка для часов",
     "path": "/product/purpose/upakovka-dlya-chasov/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Учитываем посадку корпуса, ремешка и аксессуаров в составе набора.",
+    "tagline": "Коробки и ложементы для часовых изделий."
   },
   {
     "name": "Упаковка из твёрдого пенопласта",
     "path": "/product/purpose/upakovka-iz-tverdogo-penoplasta/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Плотность и геометрия опор определяются массой и особенностями изделия.",
+    "tagline": "Формованные жёсткие детали упаковки из пенопласта."
   },
   {
     "name": "Упаковка компьютеров",
     "path": "/product/purpose/upakovka-kompyuterov/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Для корпусов и компонентов предусматривают отдельные элементы фиксации.",
+    "tagline": "Защитная упаковка компьютерного оборудования."
   },
   {
     "name": "Упаковка микросхем",
     "path": "/product/purpose/upakovka-mikroskhem/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "При необходимости антистатических свойств материал проверяют по спецификации заказчика.",
+    "tagline": "Защитные вставки для микросхем и электронных компонентов."
   },
   {
     "name": "Флокированная упаковка",
     "path": "/product/purpose/flokirovannaya-upakovka/",
-    "parent": "/product/purpose/"
+    "parent": "/product/purpose/",
+    "summary": "Флокирование применяют для создания текстильной на ощупь декоративной поверхности.",
+    "tagline": "Презентационная упаковка с флокированным покрытием."
+  },
+  {
+    "name": "Упаковка для маркетплейсов",
+    "path": "/product/purpose/upakovka-dlya-marketpleysov/",
+    "parent": "/product/purpose/",
+    "summary": "Конструкцию подбирают по требованиям площадки, товарной категории и сценарию доставки.",
+    "tagline": "Коробки и защитные вкладыши для доставки товаров через маркетплейсы."
   }
 ]
