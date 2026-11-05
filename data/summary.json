@@ -1,0 +1,11 @@
+{
+  "total_queries": 3182,
+  "query_status": {
+    "provisional": 2934,
+    "review": 128,
+    "informational": 49,
+    "exclude": 71
+  },
+  "categories": 61,
+  "products": 27
+}

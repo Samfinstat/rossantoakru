@@ -1,0 +1,307 @@
+[
+  {
+    "name": "Ложементы",
+    "path": "/product/lozhementy/",
+    "parent": "/product/"
+  },
+  {
+    "name": "Ложементы из поролона",
+    "path": "/product/lozhementy/lozhementy-iz-porolona/",
+    "parent": "/product/lozhementy/"
+  },
+  {
+    "name": "Ложементы из вспененного полиэтилена",
+    "path": "/product/lozhementy/lozhementy-iz-penopolietilenov/",
+    "parent": "/product/lozhementy/"
+  },
+  {
+    "name": "Ложементы из изолона",
+    "path": "/product/lozhementy/lozhementy-iz-izolona/",
+    "parent": "/product/lozhementy/"
+  },
+  {
+    "name": "Ложементы из пластика",
+    "path": "/product/lozhementy/lozhementy-iz-plastika1/",
+    "parent": "/product/lozhementy/"
+  },
+  {
+    "name": "Ложементы из EVA",
+    "path": "/product/lozhementy/lozhementy-iz-materiala-eva/",
+    "parent": "/product/lozhementy/"
+  },
+  {
+    "name": "Ложементы из картона",
+    "path": "/product/lozhementy/lozhementy-iz-kartona/",
+    "parent": "/product/lozhementy/"
+  },
+  {
+    "name": "Ложементы из пенопласта",
+    "path": "/product/lozhementy/lozhementy-iz-penoplasta/",
+    "parent": "/product/lozhementy/"
+  },
+  {
+    "name": "Ложементы для кейсов",
+    "path": "/product/lozhementy/lozhementy-dlya-keysov/",
+    "parent": "/product/lozhementy/"
+  },
+  {
+    "name": "Коробки",
+    "path": "/product/korobki/",
+    "parent": "/product/"
+  },
+  {
+    "name": "Гофрокороба",
+    "path": "/product/korobki/gofrokoroba/",
+    "parent": "/product/korobki/"
+  },
+  {
+    "name": "Картонные коробки",
+    "path": "/product/korobki/kartonnye-korobki/",
+    "parent": "/product/korobki/"
+  },
+  {
+    "name": "Коробки из микрогофрокартона",
+    "path": "/product/korobki/korobki-iz-mikrogofrokartona/",
+    "parent": "/product/korobki/"
+  },
+  {
+    "name": "Коробки из переплётного картона",
+    "path": "/product/korobki/korobki-iz-perepletnogo-kartona/",
+    "parent": "/product/korobki/"
+  },
+  {
+    "name": "Коробки с ложементом",
+    "path": "/product/korobki/korobki-s-lozhementom/",
+    "parent": "/product/korobki/"
+  },
+  {
+    "name": "Подарочные коробки с ложементом",
+    "path": "/product/korobki/podarochnye-korobki-s-lozhementom/",
+    "parent": "/product/korobki/"
+  },
+  {
+    "name": "Пластиковая упаковка",
+    "path": "/product/plastikovaya-upakovka/",
+    "parent": "/product/"
+  },
+  {
+    "name": "Блистерная упаковка",
+    "path": "/product/plastikovaya-upakovka/blisternaya-upakovka/",
+    "parent": "/product/plastikovaya-upakovka/"
+  },
+  {
+    "name": "Вакуумная формовка",
+    "path": "/product/plastikovaya-upakovka/vakuumnaya-formovka/",
+    "parent": "/product/plastikovaya-upakovka/"
+  },
+  {
+    "name": "Коррексы",
+    "path": "/product/plastikovaya-upakovka/korreksy/",
+    "parent": "/product/plastikovaya-upakovka/"
+  },
+  {
+    "name": "Пластиковые ложементы",
+    "path": "/product/plastikovaya-upakovka/lozhementy-iz-plastika/",
+    "parent": "/product/plastikovaya-upakovka/"
+  },
+  {
+    "name": "Пластиковые тубусы",
+    "path": "/product/plastikovaya-upakovka/tubusy/",
+    "parent": "/product/plastikovaya-upakovka/"
+  },
+  {
+    "name": "Крышки для тубусов",
+    "path": "/product/kryshki-dlya-tubusov/",
+    "parent": "/product/"
+  },
+  {
+    "name": "Жестяные крышки для тубусов",
+    "path": "/product/kryshki-dlya-tubusov/zhestyanye/",
+    "parent": "/product/kryshki-dlya-tubusov/"
+  },
+  {
+    "name": "Пластиковые крышки для тубусов",
+    "path": "/product/kryshki-dlya-tubusov/plastikovye/",
+    "parent": "/product/kryshki-dlya-tubusov/"
+  },
+  {
+    "name": "Поролоновые руки",
+    "path": "/product/porolonovye-ruki/",
+    "parent": "/product/"
+  },
+  {
+    "name": "Упаковка по назначению",
+    "path": "/product/purpose/",
+    "parent": "/product/"
+  },
+  {
+    "name": "Вкладыши для упаковки",
+    "path": "/product/purpose/vkladyshi-dlya-upakovki/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Военная упаковка",
+    "path": "/product/purpose/voennaya-upakovka/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Защитная упаковка",
+    "path": "/product/purpose/zashchitnaya-upakovka/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Индивидуальная упаковка",
+    "path": "/product/purpose/individualnaya-upakovka/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Комбинированная упаковка",
+    "path": "/product/purpose/kombinirovannaya-upakovka/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Накладки для серверов",
+    "path": "/product/purpose/nakladki-dlya-serverov/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Подарочная упаковка",
+    "path": "/product/purpose/podarochnaya-upakovka/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Профили из пенопласта",
+    "path": "/product/purpose/profili-iz-penoplasta/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Транспортная упаковка",
+    "path": "/product/purpose/transportnaya-upakovka/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Уголки из пенопласта",
+    "path": "/product/purpose/ugolki-iz-penoplasta/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Ударопрочная упаковка",
+    "path": "/product/purpose/udaroprochnaya-upakovka/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Упаковка для авиаперевозок",
+    "path": "/product/purpose/upakovka-dlya-aviaperevozok-upakovka-dlya-aviatsionnykh-izdeliy-dlya-aviatsii-na-zakaz/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Упаковка для ампул",
+    "path": "/product/purpose/upakovka-dlya-ampul/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Упаковка для бокалов",
+    "path": "/product/purpose/upakovka-dlya-bokalov-1535/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Заглушки, вставки, уголки",
+    "path": "/product/purpose/zaglushki-vstavki-ugolki469/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Упаковка для духов",
+    "path": "/product/purpose/upakovka-dlya-dukhov/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Упаковка для зеркал",
+    "path": "/product/purpose/upakovka-dlya-zerkal/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Упаковка для кальянов",
+    "path": "/product/purpose/upakovka-dlya-kalyanov/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Упаковка для керамики",
+    "path": "/product/purpose/upakovka-dlya-keramiki/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Упаковка для косметики",
+    "path": "/product/purpose/upakovka-dlya-kosmetiki-7763/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Упаковка для крупногабаритных грузов",
+    "path": "/product/purpose/upakovka-dlya-krupnogabaritnykh-gruzov-i-tovarov/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Новогодняя упаковка",
+    "path": "/product/purpose/novogodnyaya-upakovka394/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Упаковка для медицинских изделий",
+    "path": "/product/purpose/upakovka-dlya-meditsinskikh-izdeliy9560/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Упаковка для сантехники",
+    "path": "/product/purpose/upakovka-dlya-santekhniki-9530/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Упаковка для светильников",
+    "path": "/product/purpose/upakovka-dlya-svetilnikov/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Упаковка для стоматологии",
+    "path": "/product/purpose/upakovka-dlya-stomatologii9142/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Упаковка для украшений",
+    "path": "/product/purpose/upakovka-dlya-ukrasheniy/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Упаковка для флаконов",
+    "path": "/product/purpose/upakovka-dlya-flakonov/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Упаковка для хрупкого",
+    "path": "/product/purpose/upakovka-dlya-khrupkogo7733/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Упаковка для часов",
+    "path": "/product/purpose/upakovka-dlya-chasov/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Упаковка из твёрдого пенопласта",
+    "path": "/product/purpose/upakovka-iz-tverdogo-penoplasta/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Упаковка компьютеров",
+    "path": "/product/purpose/upakovka-kompyuterov/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Упаковка микросхем",
+    "path": "/product/purpose/upakovka-mikroskhem/",
+    "parent": "/product/purpose/"
+  },
+  {
+    "name": "Флокированная упаковка",
+    "path": "/product/purpose/flokirovannaya-upakovka/",
+    "parent": "/product/purpose/"
+  }
+]
