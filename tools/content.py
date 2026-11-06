@@ -71,7 +71,7 @@ PURPOSE = {
 }
 BRIEFS.update(PURPOSE)
 
-def category_content(cat, link):
+def category_content(cat, link, picture, illustration_for):
     name=cat['name']; slug=cat['path'].strip('/').split('/')[-1]
     head, problem, inputs=BRIEFS[slug]
     esc=html.escape
@@ -85,15 +85,17 @@ def category_content(cat, link):
       'porolonovye-ruki':[('/product/purpose/podarochnaya-upakovka/','подарочной упаковкой'),('/services/','производственными услугами')]
     }[group]
     links=' и '.join(f'<a href="{esc(link(p))}">{t}</a>' for p,t in related)
-    return f'''<section class="section"><div class="wrap prose">
+    return f'''<section class="section content-story"><div class="wrap content-story-grid"><div class="prose">
 <h2>{esc(head)}</h2><p>{esc(problem)} {esc(cat['summary'])}</p>
 <h3>Какие параметры согласовать: {esc(name.lower())}</h3>
 <p>Для разработки укажите {esc(inputs)}. Если есть готовая тара или образец, передайте его размеры вместе с чертежом изделия. Важно различать наружные габариты упаковки и полезное пространство внутри: толщина стенок, вставки и способ закрывания влияют на посадку.</p>
-<h2>{esc(name)}: от задачи к конструкции</h2>
+</div><figure>{picture(illustration_for(cat['path']),name)}<figcaption>Иллюстрация решения</figcaption></figure></div></section>
+<section class="section pale content-story"><div class="wrap content-story-grid reverse"><div class="prose"><h2>{esc(name)}: от задачи к конструкции</h2>
 <p>Сначала определяют положение продукции и условия её использования. Затем выбирают материал, конструкцию и способ комплектации. На этом этапе удобно сопоставить решение с {links}. Связанные элементы следует проверять вместе, чтобы вкладыш, корпус и крышка не мешали друг другу при сборке.</p>
 <h3>Проверка образца перед выпуском партии</h3>
 <p>При согласовании образца проверьте посадку, извлечение изделия и закрывание упаковки. Если нужна защита при конкретных нагрузках, опишите критерии проверки заранее. Фото помогает понять общую форму, но не заменяет размеры, допуски и требования к материалу. Особые свойства и соответствие стандартам подтверждают отдельно.</p>
-<h2>Расчёт проекта: {esc(name.lower())}</h2>
+</div><figure>{picture('/assets/design/process.webp','Проработка конструкции')}<figcaption>Иллюстрация процесса</figcaption></figure></div></section>
+<section class="section content-story"><div class="wrap content-story-grid"><div class="prose"><h2>Расчёт проекта: {esc(name.lower())}</h2>
 <p>На стоимость влияют геометрия, расход материала, количество деталей, необходимость оснастки, оформление и тираж. Для сопоставимых предложений зафиксируйте одну комплектацию и одинаковые требования. Срок и возможность повторного выпуска согласуют после рассмотрения задачи.</p>
 <p>В <a href="{esc(link('/request/'))}">запросе на расчёт</a> укажите {esc(inputs)}. Добавьте требуемое количество и контакт для уточнений. Если решение ещё не выбрано, опишите изделие и условия его хранения или перевозки — это даст исходные данные для обсуждения конструкции.</p>
-</div></section>'''
+</div><figure>{picture('/assets/design/materials.webp','Выбор материалов для проекта')}<figcaption>Иллюстрация материалов</figcaption></figure></div></section>'''
