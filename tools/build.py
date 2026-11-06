@@ -189,6 +189,8 @@ def build():
  (OUT/'site-manifest.json').write_text(json.dumps({'pages':len(list(OUT.rglob('index.html'))),'categories':len(cats),'products':len(products),'semantics':sum(counts.values()),'status':'review'},ensure_ascii=False,indent=2),encoding='utf-8')
  (OUT/"assets/search-index.json").write_text(json.dumps([{'name':x['name'],'url':link(x['path']),'kind':'Раздел' if x in cats else 'Изделие'} for x in cats+products],ensure_ascii=False))
  export_review()
+ from seo_passport import generate
+ generate(ROOT,OUT,BASE)
  print('Built:',len(list(OUT.rglob('index.html'))),'pages, categories',len(cats),'products',len(products),'queries',sum(counts.values()))
 def export_review():
  with (DOC/'site_tree.csv').open('w',encoding='utf-8-sig',newline='') as f:
